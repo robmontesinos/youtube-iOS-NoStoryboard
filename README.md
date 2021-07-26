@@ -1,4 +1,16 @@
-# Youtube iOS Template
+# Youtube iOS Template: No Storyboard Modification
+
+This project is an exercise in converting an iOS app with a complex storyboard into an iOS app without storyboard. 
+
+The project selected for this exercise was the Youtube iOS Template developed by [Haik Aslanyan](https://twitter.com/aslanyanhaik) and written in Swift 3 and can be viewed/downloaded via its repository: [Youtube iOS Template](https://github.com/aslanyanhaik/youtube-iOS)
+
+**Youtube iOS Template** was selected due to its Storyboard with six view controllers and three specialized views.
+
+Programmatic layout of constraints were greatly helped by [LBTA Tools](https://github.com/bhlvoong/LBTATools) by Brian Voong [@buildthatapp](https://twitter.com/buildthatapp) [YouTube](https://www.youtube.com/letsbuildthatapp)
+
+# Youtube iOS Template: Original Readme below
+
+----------------------------------------------------------------------------------------------------------------------------------
 
 [![License](http://img.shields.io/badge/License-MIT-green.svg?style=flat)](https://github.com/aslanyanhaik/Quick-Chat/blob/master/LICENSE)
 [![Swift 3](https://img.shields.io/badge/Swift-3.0-orange.svg?style=flat)](https://swift.org)
