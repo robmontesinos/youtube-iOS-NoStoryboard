@@ -22,7 +22,6 @@
 
 import UIKit
 
-
 // uicolor init simplified
 extension UIColor{
     class func rbg(r: CGFloat, g: CGFloat, b: CGFloat) -> UIColor {
